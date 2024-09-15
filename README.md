@@ -1,3 +1,3 @@
-Visit Site Here: ---> https://lichatti.github.io/Simon-Game/
+Visit Site Here: ---> https://litti8.github.io/Simon-Game/
 
 # Simon-Game
